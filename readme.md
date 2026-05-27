@@ -15,7 +15,7 @@
 | 👤 **Name** | `Abhishek Das` |
 | 💼 **Role** | `Project Engineer @ Wipro` |
 | 🎓 **Degree** | `B.Tech — Computer Science (2025)` |
-| 📍 **Location** | `India 🇮🇳` |
+| 📍 **Location** | `India` |
 | 📧 **Email** | `dashabhish@gmail.com` |
 | ⚡ **Super Power** | `Rubik's Cube < 60 seconds! 🧩` |
 | 🌱 **Status** | `Learning & Growing every day 🚀` |
