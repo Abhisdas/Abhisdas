@@ -17,10 +17,8 @@
 | 🎓 **Degree** | `B.Tech — Computer Science (2025)` |
 | 📍 **Location** | `India 🇮🇳` |
 | 📧 **Email** | `dashabhish@gmail.com` |
-| 🧠 **LeetCode** | `57 Problems Solved 🚀` |
 | ⚡ **Super Power** | `Rubik's Cube < 60 seconds! 🧩` |
 | 🌱 **Status** | `Learning & Growing every day 🚀` |
-
 
 ---
 
@@ -30,23 +28,23 @@
 
 > _"The more you practice, the luckier you get!"_ 🎯
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a1a&color=4AF626&label=🔥%20Problems%20Solved&query=solvedOverTotal&url=https%3A%2F%2Leetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=4AF626)](https://leetcode.com/Abhisdas/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a1a&color=4AF626&label=🔥%20Problems%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=4AF626)](https://leetcode.com/Abhisdas/)
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile%20🚀-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=FF3333)](https://leetcode.com/Abhisdas/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhisdas?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/Abhisdas/)
 
 </div>
 
 ---
 
-## 🌈 My Portfolio
+## 🌐 My Portfolio
 
 <div align="center">
 
 > _Check out the cool stuff I've built!_ ✨
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=4AF626)](https://abhisdas.github.io/TXON_04/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=4AF626)](https://abhishdas.github.io/TXON_04/)
 
-🔗 **[abhisdas.github.io/TXON_04](https://abhisdas.github.io/TXON_04/)**
+🔗 **[abhishdas.github.io/TXON_04](https://abhishdas.github.io/TXON_04/)**
 
 </div>
 
@@ -54,7 +52,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhisdas&color=FF3333&style=for-the-badge&label=VISITORS&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishdas&color=FF3333&style=for-the-badge&label=VISITORS&labelColor=1a1a1a)
 
 **Thanks for visiting my profile! 🎉 Have a wonderful day! ☀️**
 
