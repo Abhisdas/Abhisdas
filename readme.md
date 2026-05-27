@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishdas/Abhishdas/blob/main/Abhi.png)
+
 
 
 Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">                   
