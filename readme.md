@@ -17,8 +17,9 @@
 | 📧 **Email** | `dasabhis199@gmail.com` |
 | ⚡ **Super Power** | `Rubik's Cube < 60 seconds! 🧩` |
 | 🌱 **Status** | `Learning & Growing every day 🚀` |
+| 🔗 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect%20With%20Me-1a1a1a?style=flat-square&logo=linkedin&logoColor=4AF626)](https://linkedin.com/in/abhishekdas9/) |
 | 🧠 **LeetCode** | [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=1a1a1a&color=4AF626&label=🔥%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=4AF626)](https://leetcode.com/Abhisdas/) |
-| 🌐 **Portfolio** | [![Portfolio](https://img.shields.io/badge/Visit%20Now-1a1a1a?style=flat-square&logo=google-chrome&logoColor=4AF626)](https://abhishdas.github.io/TXON_04/)
+| 🌐 **Portfolio** | [![Portfolio](https://img.shields.io/badge/Visit%20Now-1a1a1a?style=flat-square&logo=google-chrome&logoColor=4AF626)](https://abhishdas.github.io/TXON_04/) |
 | 👁️ **Visitors** | ![Profile Views](https://komarev.com/ghpvc/?username=Abhishdas&color=FF3333&style=flat-square&label=VISITORS&labelColor=1a1a1a) |
 
 ---
