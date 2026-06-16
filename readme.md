@@ -1,6 +1,5 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=4AF626&center=true&vCenter=true&width=620&lines=Hey!+I'm+Abhishek+%F0%9F%91%8B;Code+%7C+Build+%7C+Learn+%7C+Repeat;Rubik's+Cube+in+under+60+seconds!+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 </div>
