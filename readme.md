@@ -1,9 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=4AF626&center=true&vCenter=true&width=620&lines=Hey!+I'm+Abhishek+%F0%9F%91%8B;Code+%7C+Build+%7C+Learn+%7C+Repeat;Rubik's+Cube+in+under+60+seconds!+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=4AF626&center=true&vCenter=true&width=620&lines=Hey!+I'm+Abhishek+%F0%9F%91%8B;Software+Engineer+@+Wipro+%F0%9F%92%BB;Code+%7C+Build+%7C+Automate+%7C+Repeat;Rubik's+Cube+in+under+60+seconds!+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 </div>
-
 
 ---
 
@@ -12,9 +11,9 @@
 | Attribute | Details |
 | :--- | :--- |
 | 👤 **Name** | `Abhishek Kumar Das` |
-| 💼 **Role** | `Project Engineer @ Wipro` |
+| 💼 **Role** | `Software Engineer @ Wipro` |
 | 🎓 **Degree** | `B.Tech — Computer Science (2025)` |
-| 📍 **Location** | `India` |
+| 📍 **Location** | `Hyderabad, India` |
 | 📧 **Email** | `dasabhis199@gmail.com` |
 | ⚡ **Super Power** | `Rubik's Cube < 60 seconds! 🧩` |
 | 🌱 **Status** | `Learning & Growing every day 🚀` |
